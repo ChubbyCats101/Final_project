@@ -1,0 +1,17 @@
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\bin\Debug\net8.0-windows\Final_Project.exe
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\bin\Debug\net8.0-windows\Final_Project.deps.json
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\bin\Debug\net8.0-windows\Final_Project.runtimeconfig.json
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\bin\Debug\net8.0-windows\Final_Project.dll
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\bin\Debug\net8.0-windows\Final_Project.pdb
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.Form1.resources
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.Properties.Resources.resources
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.csproj.GenerateResource.cache
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.AssemblyInfoInputs.cache
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.AssemblyInfo.cs
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.csproj.CoreCompileInputs.cache
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.dll
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\refint\Final_Project.dll
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.pdb
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\Final_Project.genruntimeconfig.cache
+D:\งานวิชาต่างๆ\GitCats\Final_project\Final_Project\Final_Project\obj\Debug\net8.0-windows\ref\Final_Project.dll
