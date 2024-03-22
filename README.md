@@ -24,15 +24,15 @@ classDiagram
     }
     class Planet{
         -Matar_Bay : string 
-        -string Alathfar_XI : string 
-        -string Charon_Prime : string 
-        -string Asperoth_Prime : string 
-        -string Bore_Rock : string 
-        -string Pathfinder_V : string 
-        -string Klen_Dahth_II : string 
-        -string Widows_Harbor : string 
-        -string New_Haven : string 
-        -string Pilen_V : string 
+        - Alathfar_XI : string 
+        - Charon_Prime : string 
+        - Asperoth_Prime : string 
+        - Bore_Rock : string 
+        - Pathfinder_V : string 
+        - Klen_Dahth_II : string 
+        - Widows_Harbor : string 
+        - New_Haven : string 
+        - Pilen_V : string 
     }
     class Spaceship{
         -Skywalker_OG : string 
